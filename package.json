@@ -1,0 +1,21 @@
+{
+  "name": "uniquire",
+  "version": "1.0.0",
+  "description": "Uniform names for complex require paths",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "require",
+    "path",
+    "uniform"
+  ],
+  "author": "Mark Rendle",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^2.2.0"
+  }
+}
